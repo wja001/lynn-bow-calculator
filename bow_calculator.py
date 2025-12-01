@@ -192,6 +192,5 @@ if st.button("Save & Print Customer Card (PDF)", type="primary"):
 
 # ←←← EXACT DISCLAIMER YOU REQUESTED — CLEAN AND CLASSY
 st.caption(
-    "This is the intellectual property of Lynn Armour Hannings\n"
-    "Send her a quick email — she’ll love to hear from you: lynnh@lahbows.com"
+    "This is the intellectual property of Lynn Armour Hannings. DO NOT REPRODUCE OR SHARE In any form without express written consent from her or her representative. Send her a quick email — she’ll love to hear from you: lynnh@lahbows.com"
 )
